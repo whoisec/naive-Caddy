@@ -121,4 +121,4 @@ bash <(curl -L https://github.com/crazypeace/naive/raw/main/install.sh) abc.mydo
 bash <(curl -L https://github.com/crazypeace/naive/raw/main/install.sh) abc.mydomain.com 6 14443 username password
 ```
 
- 
+ 作者：crazypeace  用于备份
